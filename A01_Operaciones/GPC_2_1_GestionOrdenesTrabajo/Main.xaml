@@ -77,9 +77,7 @@
         <OutArgument x:TypeArguments="x:String">[l]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String">
-          <Literal x:TypeArguments="x:String" Value="" />
-        </InArgument>
+        <InArgument x:TypeArguments="x:String">2</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
